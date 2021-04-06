@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# Daniel França
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a full stack developer with almost 20 years of professional experience. Currently working for KPN in Amsterdam
 
+With this blog I want to share a bit of my passion for scalable and secure software.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[daniel@koderama.com](mailto:daniel@koderama.com)
