@@ -1,7 +1,3 @@
-* Brave browser, Firefox  not supporting it, Ublock Origin blocking it
-* Profiling, and create a semi hash
-* Can be used for fingerprinting
-
 ---
 layout: post
 title: Google FLoC {Insert some F*K pun here}
