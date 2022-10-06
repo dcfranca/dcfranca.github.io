@@ -34,6 +34,7 @@ To be able to sell the Agile idea to businessmen, they had to adapt it until the
 Processes and tools slowly replaced individuals and interactions. More and more, Scrum was becoming a monster of meetings and documents.
 
 So instead of cultivating a team where everyone feels free to speak at any time about anything, valueing individuals. We now have **Sprint Retrospective**, **Team Health Check**, and many other useless meetings with predefined processes, going exactly against the Agile Manifesto.
+
 I won't even talk about the abomination of **Scrum Poker**; I'm sure some heartless sadist created it.
 But wait, with all these, the managers can print nice graphs of velocity or some other useless graph that give them this false feeling of control, which again goes against the Agile Manifesto, but who cares about it at this point, right?
 
@@ -42,5 +43,7 @@ To be honest, I met so many "Scrum Masters" who didn't even know the existence o
 But don't take my word for it; listen to what people like [Allen Holub](https://twitter.com/allenholub/status/1514806761873575936) and [Uncle Bob](https://www.youtube.com/watch?v=hG4LH6P8Syk) have to say.
 
 ![_config.yml]({{ site.baseurl }}/images/allenholub-tweet.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hG4LH6P8Syk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 All in all, we are moving in the wrong direction, we let business people decide how software engineering should work for so long that now what we call Agile is not much different than the RUP, and we are all witnesses of the slow death of Agile, killed by Scrum.
