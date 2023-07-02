@@ -8,7 +8,7 @@ permalink: /about/
 
 ### More Information
 
-I am a full stack developer with almost 20 years of professional experience. Currently working for KPN in Amsterdam
+I am a Platform Engineer with experience in developing, maintaining, and scaling web applications, microservices, and infrastructure.
 
 With this blog I want to share a bit of my passion for scalable and secure software.
 ### Contact me
