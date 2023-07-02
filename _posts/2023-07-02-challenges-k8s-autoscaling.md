@@ -6,7 +6,7 @@ title: 6 things to know before autoscaling your Kubernetes cluster
 Have you decided to stop wasting money on nodes you don't use? Do you want a flexible infrastructure to respond to real-time demand without manually setting your nodes? That is where Kubernetes autoscaler comes into the scene.
 
 ### What is cluster autoscaler
-When a pod ~begs~ requests Kubernetes to be scheduled, Kubernetes checks whether it has nodes with enough resources to accommodate the pod (based on the resources requested by the sum of all its current pods); in case it doesn't, lower priority pods can be evicted, to accommodate the new pods.
+When a pod ~~begs~~ requests Kubernetes to be scheduled, Kubernetes checks whether it has nodes with enough resources to accommodate the pod (based on the resources requested by the sum of all its current pods); in case it doesn't, lower priority pods can be evicted, to accommodate the new pods.
 
 If it can't find a place for the new pod, it marks the pod in a `Pending` state and start the process to spin up a new node; the new node is provisioned and then can receive the new pods.
 
