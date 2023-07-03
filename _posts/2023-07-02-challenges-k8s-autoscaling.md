@@ -18,6 +18,7 @@ Here, I'll describe six essential things to remember when preparing your cluster
 1. Resources definition
 Kubernetes likes to know about their workload beforehand; pods with neither requests nor limits defined run in the QoS(Quality of Service) class `BestEffort,` which puts them on the top of the eviction list.
 Make sure you have your pods with adequate [quality of service](https://kubernetes.io/docs/tasks/configure-pod-container/quality-service-pod/), and please, don't let your pods without their resources defined; autoscaler won't get along with them well.
+You can use a policy engine like [Kyverno](https://kyverno.io/) or [OPA](https://www.openpolicyagent.org/) to enforce it.
 
 ![_config.yml]({{ site.baseurl }}/images/qos.jpeg)
 
